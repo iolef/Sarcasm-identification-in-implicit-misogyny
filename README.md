@@ -9,7 +9,7 @@ Colab notebooks <br/>
 2. [Humor model.ipynb] (https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/3_1_Models_application_to_AMI_dataset.ipynb) <br/>
 3.1 [Models application to AMI dataset.ipynb] (https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/3_1_Models_application_to_AMI_dataset.ipynb) (three-category classification) <br/>
 3.2 [Models application to AMI dataset.ipynb] (https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/3_2_Models_application_to_AMI_dataset.ipynb) (binary classification) <br/>
-4.1 [Humor identification in implicit misogyny.ipynb] (https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/4_1_Humour_identification_in_implicit_misogyny.ipynb) (three-category classification) <br/>
+4.1 [Humor_identification_in_implicit_misogyny.ipynb] (https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/4_1_Humour_identification_in_implicit_misogyny.ipynb) (three-category classification) <br/>
 4.2 [Humor identification in implicit misogyny.ipynb] (https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/4_2_Humour_identification_in_implicit_misogyny.ipynb) (binary classification) <br/>
 Report
 
