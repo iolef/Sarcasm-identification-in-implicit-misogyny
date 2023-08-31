@@ -4,7 +4,7 @@ This repository contains the final project submitted for the Natural Language Pr
 
 ## Content
 Colab notebooks <br/>
-1.1 Implicit hate detection model notebook (three-category classification) <br/>
+1.1 [Implicit hate detection model] (https://colab.research.google.com/drive/1JKPe3_dBIM0slAlNJD9vLX9FXXvfNg1o) notebook (three-category classification) <br/>
 1.2 Implicit hate detection model notebook (binary classification) <br/>
 2. Humor model notebook <br/>
 3.1 Models application to AMI dataset (three-category classification) <br/>
