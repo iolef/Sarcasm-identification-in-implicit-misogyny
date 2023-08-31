@@ -9,7 +9,7 @@ Colab notebooks
 2. Humor model notebook
 3. Models application to AMI dataset (three-category classification)
 3.1. Models application to AMI dataset (binary classification)
-4.1 Humor identification in implicit misogyny (three-category classification)
+4. Humor identification in implicit misogyny (three-category classification)
 4.2 Humor identification in implicit misogyny (binary classification)
 Report
 
