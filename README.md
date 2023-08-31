@@ -4,7 +4,7 @@ This repository contains the final project submitted for the Natural Language Pr
 
 ## Content
 Colab notebooks <br/>
-1.1 [Implicit hate detection model.ipynb] (https://colab.research.google.com/drive/1JKPe3_dBIM0slAlNJD9vLX9FXXvfNg1o#scrollTo=ctpX3a6iotJF) (three-category classification) <br/>
+1.1 Implicit hate detection model.ipynb (https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/1_1_Implicit_hate_detection_model.ipynb) (three-category classification) <br/>
 1.2 [Implicit hate detection model.ipynb] (https://colab.research.google.com/drive/1dVVzQ2NqSK2suug5vuzXqWA9CChQZQHo) (binary classification) <br/>
 2. [Humor model.ipynb] (https://colab.research.google.com/drive/13GXmdFHAvd37D4uyFKUiL_EF40ylXwOi) <br/>
 3.1 [Models application to AMI dataset.ipynb] (https://colab.research.google.com/drive/1IaXEkRehrSPVJzVVfbdO1tGDleWa5BHB) (three-category classification) <br/>
