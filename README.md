@@ -4,13 +4,13 @@ This repository contains the final project submitted for the Natural Language Pr
 
 ## Content
 Colab notebooks <br/>
-1.1 [Implicit hate detection model] (https://colab.research.google.com/drive/1JKPe3_dBIM0slAlNJD9vLX9FXXvfNg1o) notebook (three-category classification) <br/>
-1.2 Implicit hate detection model notebook (binary classification) <br/>
-2. Humor model notebook <br/>
-3.1 Models application to AMI dataset (three-category classification) <br/>
-3.2 Models application to AMI dataset (binary classification) <br/>
-4.1 Humor identification in implicit misogyny (three-category classification) <br/>
-4.2 Humor identification in implicit misogyny (binary classification) <br/>
+1.1 [Implicit hate detection model.ipynb] (https://colab.research.google.com/drive/1JKPe3_dBIM0slAlNJD9vLX9FXXvfNg1o#scrollTo=ctpX3a6iotJF) (three-category classification) <br/>
+1.2 [Implicit hate detection model.ipynb] (https://colab.research.google.com/drive/1dVVzQ2NqSK2suug5vuzXqWA9CChQZQHo) (binary classification) <br/>
+2. [Humor model.ipynb] (https://colab.research.google.com/drive/13GXmdFHAvd37D4uyFKUiL_EF40ylXwOi) <br/>
+3.1 [Models application to AMI dataset.ipynb] (https://colab.research.google.com/drive/1IaXEkRehrSPVJzVVfbdO1tGDleWa5BHB) (three-category classification) <br/>
+3.2 [Models application to AMI dataset.ipynb] (https://colab.research.google.com/drive/1i-uXO4cgN5yWnp8GbWxi_rekZnDgu4MR) (binary classification) <br/>
+4.1 [Humor identification in implicit misogyny.ipynb] (https://colab.research.google.com/drive/1UMxn5T8NB5nhvKpHUdl1Zp0YWno0h5fb) (three-category classification) <br/>
+4.2 [Humor identification in implicit misogyny.ipynb] (https://colab.research.google.com/drive/16YN7oqXed_Qgxry2tpHIthDHI6w-RqGb) (binary classification) <br/>
 Report
 
 ## Setup and installation
