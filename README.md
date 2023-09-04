@@ -21,4 +21,4 @@ Report<br/>
 
 ## Setup and installation
 1. Install [Transformers](https://github.com/huggingface/transformers) <br />
-`pip install pandas` <br />
+`pip install transformers[torch] datasets evaluate` <br />
