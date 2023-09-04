@@ -17,7 +17,7 @@ Datasets<br/>
 [Classified dataset2](https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/classified_dataset2.tsv) <br/>
 
 Report<br/>
-[Report](https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/NLP%20report.pdf)
+[Report](https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/NLP%20report%20Falsone%2C%20Guarnieri.pdf)
 
 ## Setup and installation
 1. Install [Transformers](https://github.com/huggingface/transformers) <br />
