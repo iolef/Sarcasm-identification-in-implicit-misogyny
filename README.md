@@ -12,12 +12,13 @@ Colab notebooks <br/>
 4.1 [Humor_identification_in_implicit_misogyny.ipynb](https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/4_1_Humour_identification_in_implicit_misogyny.ipynb) (three-category classification) <br/>
 4.2 [Humor_identification_in_implicit_misogyny.ipynb](https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/4_2_Humour_identification_in_implicit_misogyny.ipynb) (binary classification) <br/>
 
+## Datasets
 [Classified dataset](https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/classified_dataset.tsv) <br/>
 [Classified dataset2](https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/classified_dataset2.tsv) <br/>
 
-Report
+## Report
+[Report](https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/NLP%20report.pdf)
 
 ## Setup and installation
-
 1. Install [Transformers](https://github.com/huggingface/transformers) <br />
 `pip install pandas` <br />
