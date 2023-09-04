@@ -6,7 +6,7 @@ This repository contains the final project submitted for the Natural Language Pr
 Colab notebooks <br/>
 1.1 [Implicit_hate_detection_model.ipynb](https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/1_1_Implicit_hate_detection_model.ipynb) (three-category classification) <br/>
 1.2 [Implicit_hate_detection_model.ipynb](https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/1_2_Implicit_hate_detection_model.ipynb) (binary classification) <br/>
-2. [Humor_model.ipynb](https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/3_1_Models_application_to_AMI_dataset.ipynb) <br/>
+2. [Humor_model.ipynb](https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/2_Humour_detection_model.ipynb) <br/>
 3.1 [Models_application_to_AMI_dataset.ipynb](https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/3_1_Models_application_to_AMI_dataset.ipynb) (three-category classification) <br/>
 3.2 [Models_application_to_AMI_dataset.ipynb](https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/3_2_Models_application_to_AMI_dataset.ipynb) (binary classification) <br/>
 4.1 [Humor_identification_in_implicit_misogyny.ipynb](https://github.com/iolef/Sarcasm-identification-in-implicit-misogyny/blob/main/4_1_Humour_identification_in_implicit_misogyny.ipynb) (three-category classification) <br/>
